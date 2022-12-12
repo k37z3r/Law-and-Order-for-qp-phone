@@ -11,7 +11,15 @@ A legal version for use can be purchased at https://bao.tebex.io/<br>
 <br>
 Law and Order is an addon for qb-phone<br>
 With this addon you can create and manage the laws, also every citizen can read these laws.<br>
-<br>
+<br><br>
+Screenshots:<br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot.png"><br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot2.png"><br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot3.png"><br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot4.png"><br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot5.png"><br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot6.png"><br>
+<img src="https://github.com/k37z3r/Law-and-Order-for-qp-phone/blob/main/screenshot7.png"><br>
 Files that nedd to be modified:<br>
 ./resource/[qb]/qb-phone/html/index.html<br>
 ./resource/[qb]/qb-phone/html/fxmanifest.lua
