@@ -5,7 +5,6 @@ Law and Order is an addon for qb-phone With this addon you can create and manage
 © Copyright 2022 all rights reserved<br>
 <br>
 All contents, especially the source code of all files, are protected by copyright. All rights, including reproduction, publication, editing and translation, are reserved.<br>
-A legal version for use can be purchased at https://bao.tebex.io/<br>
 <br>
 <br>
 <br>
